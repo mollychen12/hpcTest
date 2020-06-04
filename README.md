@@ -1,2 +1,2 @@
 # hpcTest
-some scripts
+some scripts run openFoam at server
